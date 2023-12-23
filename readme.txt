@@ -1,0 +1,1 @@
+This python file can generate random password throgh input.
